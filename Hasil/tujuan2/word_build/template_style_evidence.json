@@ -1,0 +1,170 @@
+{
+  "input": "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\[1] [On going] SLM - RAG\\[1] Progres Skripsi\\[4] Bab 4\\tujuan 1.docx",
+  "fonts_by_char_count": {
+    "Times New Roman": 15145
+  },
+  "direct_run_formatting_runs": 175,
+  "direct_paragraph_formatting_paragraphs": 173,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 7,
+      "text": "Tabel 4.1 Dua belas kandidat SLM hasil penyaringan kriteria teknis",
+      "style": ""
+    },
+    {
+      "para_index": 12,
+      "text": "Gambar 4.1 Akurasi IndoMMLU per model (n = 14.906 soal)",
+      "style": ""
+    },
+    {
+      "para_index": 16,
+      "text": "Gambar 4.2 Heatmap akurasi IndoMMLU per rumpun mata pelajaran",
+      "style": ""
+    },
+    {
+      "para_index": 22,
+      "text": "Gambar 4.3 Akurasi IndoCareer per model (n = 8.768 soal)",
+      "style": ""
+    },
+    {
+      "para_index": 24,
+      "text": "Gambar 4.4 Heatmap akurasi IndoCareer per kelompok profesi",
+      "style": ""
+    },
+    {
+      "para_index": 27,
+      "text": "Tabel 4.2 Peringkat kandidat berdasarkan skor gabungan IndoMMLU\u2013IndoCareer",
+      "style": ""
+    },
+    {
+      "para_index": 32,
+      "text": "Gambar 4.5 Peringkat akhir kandidat berdasarkan skor gabungan 50:50",
+      "style": ""
+    },
+    {
+      "para_index": 34,
+      "text": "Gambar 4.6 Hubungan ukuran parameter dan skor gabungan",
+      "style": ""
+    },
+    {
+      "para_index": 36,
+      "text": "Gambar 4.7 Konsistensi antar-tolok ukur IndoMMLU dan IndoCareer",
+      "style": ""
+    },
+    {
+      "para_index": 43,
+      "text": "Gambar 4.8 Perbandingan dua kandidat terpilih per rumpun mata pelajaran IndoMMLU",
+      "style": ""
+    },
+    {
+      "para_index": 44,
+      "text": "Model",
+      "style": ""
+    },
+    {
+      "para_index": 45,
+      "text": "Pengembang",
+      "style": ""
+    },
+    {
+      "para_index": 46,
+      "text": "Parameter (miliar)",
+      "style": ""
+    },
+    {
+      "para_index": 47,
+      "text": "Varian instruksi",
+      "style": ""
+    },
+    {
+      "para_index": 96,
+      "text": "Peringkat",
+      "style": ""
+    },
+    {
+      "para_index": 97,
+      "text": "Model",
+      "style": ""
+    },
+    {
+      "para_index": 98,
+      "text": "Parameter (B)",
+      "style": ""
+    },
+    {
+      "para_index": 99,
+      "text": "IndoMMLU (%)",
+      "style": ""
+    },
+    {
+      "para_index": 100,
+      "text": "IndoCareer (%)",
+      "style": ""
+    },
+    {
+      "para_index": 101,
+      "text": "Skor (%)",
+      "style": ""
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "BAB IV  HASIL DAN PEMBAHASAN",
+        "style": "Heading 1"
+      },
+      {
+        "para_index": 2,
+        "text": "4.1  Hasil Seleksi Small Language Model",
+        "style": "Heading 2"
+      },
+      {
+        "para_index": 3,
+        "text": "Tahap seleksi bertujuan menetapkan dua model dasar terbaik yang akan diadaptasi pada tahap fine-tuning. Proses ini berla",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "text": "4.1.1  Kriteria dan Kandidat Awal Seleksi",
+        "style": "Heading 3"
+      },
+      {
+        "para_index": 5,
+        "text": "Penyaringan awal menghasilkan dua belas model yang memenuhi seluruh kriteria teknis, yaitu ukuran parameter maksimal tuj",
+        "style": ""
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "BAB IV  HASIL DAN PEMBAHASAN",
+        "style": "Heading 1"
+      },
+      {
+        "para_index": 2,
+        "run_text": "4.1  Hasil Seleksi Small Language Model",
+        "style": "Heading 2"
+      },
+      {
+        "para_index": 3,
+        "run_text": "Tahap seleksi bertujuan menetapkan dua model dasar terbaik yang akan diadaptasi ",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "run_text": "4.1.1  Kriteria dan Kandidat Awal Seleksi",
+        "style": "Heading 3"
+      },
+      {
+        "para_index": 5,
+        "run_text": "Penyaringan awal menghasilkan dua belas model yang memenuhi seluruh kriteria tek",
+        "style": ""
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

@@ -1,0 +1,44 @@
+﻿berkas,nomor_gambar_bab4,judul,sel_notebook
+fig01_komposisi_korpus.png,Gambar 4.9,Komposisi korpus publikasi BPS menurut tahun terbit dan seri publikasi,007
+fig02_halaman_per_dokumen.png,Gambar 4.10,Jumlah halaman tiap dokumen dalam korpus,009
+fig03_volume_teks.png,Gambar 4.11,Volume teks tiap dokumen sebelum dan sesudah pembersihan,011
+fig04_reduksi_cleaning.png,Gambar 4.12,Tingkat reduksi pembersihan per dokumen,013
+fig05_kepadatan_teks.png,Gambar 4.13,Hubungan jumlah halaman dan volume teks serta kepadatan teks per halaman,015
+fig06_elemen_dihapus.png,Gambar 4.14,Elemen non-substantif yang dihapus pada tahap pembersihan,017
+fig07_kualitas_ekstraksi.png,Gambar 4.15,Kualitas hasil ekstraksi PDF pada tingkat halaman,019
+fig08_funnel_chunking.png,Gambar 4.16,Funnel transformasi section menjadi chunk siap pembentukan QA,022
+fig09_alasan_penyisihan.png,Gambar 4.17,Alasan penyisihan section sebelum chunking,024
+fig10_jenis_chunk.png,Gambar 4.18,Komposisi jenis chunk dan potensi tipe pertanyaan,026
+fig11_rasio_section_chunk.png,Gambar 4.19,Rasio pemecahan section menjadi chunk per dokumen,028
+fig12_kontribusi_chunk.png,Gambar 4.20,Kontribusi tiap dokumen terhadap total chunk korpus,030
+fig13_funnel_dataset_qa.png,Gambar 4.21,Funnel pembentukan dataset QA,034
+fig14_penyaringan_dan_parsing.png,Gambar 4.22,Penyaringan section sebelum generasi dan status parsing keluaran LLM,036
+fig15_komposisi_subtask.png,Gambar 4.23,Komposisi tipe pertanyaan pada dataset QA mentah,038
+fig16_cakupan_korpus.png,Gambar 4.24,Cakupan dan konsentrasi dataset QA terhadap korpus,040
+fig17_biaya_token.png,Gambar 4.25,Biaya komputasi generasi QA dengan LLM eksternal,042
+fig18_panjang_teks.png,Gambar 4.26,Karakteristik panjang teks pada dataset QA mentah,044
+fig19_temuan_kualitas.png,Gambar 4.27,Temuan masalah kualitas pada tahap eksplorasi,046
+fig20_funnel_pembersihan.png,Gambar 4.28,Pembersihan bertingkat dataset QA,048
+fig21_skor_kualitas.png,Gambar 4.29,Skor kualitas komposit track_a_score per tipe sub-tugas,050
+fig22_keragaman.png,Gambar 4.30,Keragaman linguistik dataset QA setelah pembersihan,052
+fig23_similarity_semantik.png,Gambar 4.31,Kesesuaian semantik jawaban terhadap konteks sumber,054
+fig24_dataset_final.png,Gambar 4.32,Dataset QA final dan pembagian train/val/test tingkat section,056
+fig26_karakteristik_dataset_csv.png,Gambar 4.33,Karakteristik dataset final dihitung dari berkas train/val/test,060
+fig25_basis_pengetahuan.png,Gambar 4.34,Konfigurasi basis pengetahuan vektor dan uji coba penelusuran,058
+fig27_panjang_token.png,Gambar 4.35,Penetapan panjang urutan dan ukuran batch berdasarkan pengukuran empiris,064
+fig28_vram.png,Gambar 4.36,Estimasi kebutuhan VRAM per ukuran batch hasil dry-run,066
+fig32_efisiensi_parameter.png,Gambar 4.37,Efisiensi parameter pendekatan QLoRA,074
+fig29_kurva_loss.png,Gambar 4.38,Kurva loss pelatihan dan validasi kedua model,068
+fig30_konvergensi.png,Gambar 4.39,Analisis konvergensi dan selisih generalisasi,070
+fig31_efisiensi_training.png,Gambar 4.40,Efisiensi dan hasil akhir proses instruction-tuning,072
+fig33_waktu_inferensi.png,Gambar 4.41,Waktu inferensi pada data uji dengan greedy decoding,076
+fig34_gaya_jawaban.png,Gambar 4.42,Perubahan gaya dan format jawaban akibat instruction-tuning,078
+fig35_ringkasan_metrik.png,Gambar 4.43,Perbandingan metrik otomatis sebelum dan sesudah fine-tuning,082
+fig36_delta_peningkatan.png,Gambar 4.44,Besaran peningkatan absolut dan relatif,084
+fig37_sebaran_skor.png,Gambar 4.45,Sebaran skor tingkat-soal pada 1.791 butir uji,086
+fig38_keterbatasan_em.png,Gambar 4.46,Cakupan dan akurasi Exact Match numerik,088
+fig39_hubungan_metrik.png,Gambar 4.47,Keselarasan metrik leksikal dan semantik,090
+fig40_performa_per_subtask.png,Gambar 4.48,Performa dan manfaat fine-tuning menurut tipe sub-tugas,092
+fig41_menang_kalah.png,Gambar 4.49,Konsistensi peningkatan pada tingkat soal individual,094
+fig42_uji_signifikansi.png,Gambar 4.50,Uji statistik peningkatan fine-tuning secara berpasangan,096
+fig46_sintesis_akhir.png,Gambar 4.51,Sintesis efek instruction-tuning pada seluruh metrik otomatis,106
